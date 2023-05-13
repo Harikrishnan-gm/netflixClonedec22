@@ -1,0 +1,22 @@
+.banner{
+    height: 100vh;
+}
+.bannerText{
+    margin-left: 3rem;
+    margin-right: 40rem;
+    padding-top: 33%;
+    height: 200px;
+    font-family: 'Oswald', sans-serif;
+    background-color: transparent;
+}
+.bannertitle{
+    padding-bottom: 2%;
+    font-size: 3rem;
+    background-color: transparent;
+}
+.bannerOverview{
+    background-color: transparent;
+    line-height: 2rem;
+    opacity: 60%;
+ 
+}
